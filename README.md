@@ -1,2 +1,2 @@
-# cvpr18_download
-download cvpr2018 papers
+- Script for downloading cvpr2018 papers.
+- Mltiprocessing is used for faster downloading.
